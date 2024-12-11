@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PDC20-Finals-DonutDiaries/static/css/main.2b4ceb67.css",
+    "main.js": "/PDC20-Finals-DonutDiaries/static/js/main.fa558be7.js",
+    "static/js/239.1aca0c4c.chunk.js": "/PDC20-Finals-DonutDiaries/static/js/239.1aca0c4c.chunk.js",
+    "static/js/213.11ad3d13.chunk.js": "/PDC20-Finals-DonutDiaries/static/js/213.11ad3d13.chunk.js",
+    "static/js/455.764e72ea.chunk.js": "/PDC20-Finals-DonutDiaries/static/js/455.764e72ea.chunk.js",
+    "static/js/488.302a3bb7.chunk.js": "/PDC20-Finals-DonutDiaries/static/js/488.302a3bb7.chunk.js",
+    "static/media/butternut.png": "/PDC20-Finals-DonutDiaries/static/media/butternut.1f5048f46b0d5f00c7b1.png",
+    "static/media/donut-home.png": "/PDC20-Finals-DonutDiaries/static/media/donut-home.e4aff8d9369e0325db86.png",
+    "static/media/about-me.png": "/PDC20-Finals-DonutDiaries/static/media/about-me.91d9db190f679e32a1f5.png",
+    "static/media/korean-donut.jpg": "/PDC20-Finals-DonutDiaries/static/media/korean-donut.23c64033772ce7ed8265.jpg",
+    "static/media/DonutDiaries.png": "/PDC20-Finals-DonutDiaries/static/media/DonutDiaries.a838961a5e14bd95419a.png",
+    "static/media/glazed-donuts.jpg": "/PDC20-Finals-DonutDiaries/static/media/glazed-donuts.7eb9f007fd4445bb5714.jpg",
+    "index.html": "/PDC20-Finals-DonutDiaries/index.html",
+    "main.2b4ceb67.css.map": "/PDC20-Finals-DonutDiaries/static/css/main.2b4ceb67.css.map",
+    "main.fa558be7.js.map": "/PDC20-Finals-DonutDiaries/static/js/main.fa558be7.js.map",
+    "239.1aca0c4c.chunk.js.map": "/PDC20-Finals-DonutDiaries/static/js/239.1aca0c4c.chunk.js.map",
+    "213.11ad3d13.chunk.js.map": "/PDC20-Finals-DonutDiaries/static/js/213.11ad3d13.chunk.js.map",
+    "455.764e72ea.chunk.js.map": "/PDC20-Finals-DonutDiaries/static/js/455.764e72ea.chunk.js.map",
+    "488.302a3bb7.chunk.js.map": "/PDC20-Finals-DonutDiaries/static/js/488.302a3bb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b4ceb67.css",
+    "static/js/main.fa558be7.js"
+  ]
+}
