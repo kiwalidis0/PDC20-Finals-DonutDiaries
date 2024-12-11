@@ -1,0 +1,52 @@
+/* Navbar Styles*/
+.navbar {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background-color: #040303 !important;
+}
+
+.navbar-logo {
+  height: 100px;
+  width: auto;
+  margin-right: 10px;
+}
+
+.navbar-nav .nav-link {
+  color: #ffffff !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #A13333 !important;
+}
+
+/* Button Styles */
+.btn-outline-primary {
+  background-color: #A13333 !important;
+  color: #F4DFC8 !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: #A13333 !important;
+  color: #ffffff !important;
+}
+
+.btn-primary {
+  background-color: #FAF6F0 !important;
+  border-color: #FAF7F0;
+  color: #2d2d2d !important;
+}
+
+.btn-primary:hover {
+  background-color: #F4DFC8 !important;
+  color: #461111 !important;
+}
+
+.btn-danger {
+  background-color: #F95454 !important;
+  color: #ffffff !important;
+}
+
+.btn-danger:hover {
+  background-color: #A13333 !important;
+  color: #ffffff !important;
+}

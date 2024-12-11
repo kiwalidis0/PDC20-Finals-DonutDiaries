@@ -1,0 +1,32 @@
+/* Featured Donuts Section */
+.featured-donuts .card {
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .featured-donuts .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .featured-donuts .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  /* Community Section */
+  .community {
+    background-color: #B17457;
+    color: white;
+  }
+  
+  .community .btn {
+    background-color: #A13333;
+    color: white;
+    border: none;
+    font-size: 18px;
+  }
+  
+  .community .btn:hover {
+    background-color: #461111;
+  }
+  

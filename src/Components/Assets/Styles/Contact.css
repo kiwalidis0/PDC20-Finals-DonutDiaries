@@ -1,0 +1,43 @@
+/* Contact Section Styles */
+.contact-section {
+    background-color: #faf6f0;
+    padding: 50px 0;
+}
+
+.contact-section .btn-primary {
+    background-color: #A13333 !important;
+    color: white !important;
+}
+
+.contact-section .btn-primary:hover {
+    background-color: #461111 !important;
+    color: white !important;
+}
+
+.contact-section iframe {
+    width: 100%;
+    max-width: 600px;
+    border: 0;
+    height: 300px;
+}
+
+/* Text Styles for Contact Section */
+.contact-h2, 
+.contact-span, 
+.contact-p,
+.lead {
+    color: #461111;
+}
+
+.contact-h2 {
+    font-size: 2rem;
+}
+
+.contact-p, 
+.contact-span {
+    font-size: 1rem;
+}
+
+.lead {
+    font-size: medium;
+}

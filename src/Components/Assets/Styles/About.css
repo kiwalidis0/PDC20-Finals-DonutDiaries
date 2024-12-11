@@ -1,0 +1,19 @@
+/* General Body Styling */
+body {
+  background-color: #FAF6F0; 
+}
+
+/* Container Styling */
+.container {
+  background-color: transparent;
+}
+
+/* Text Colors */
+h2, p, span {
+  color: #461111;
+}
+
+/* Section Styling */
+section {
+  background-color: transparent;
+}

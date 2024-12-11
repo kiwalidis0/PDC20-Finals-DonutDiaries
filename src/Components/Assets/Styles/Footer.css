@@ -1,0 +1,33 @@
+/* Footer Styles */
+.footer {
+    background-color: #040303;
+    color: #d34747;
+}
+
+/* Logo Styling */
+.footer-logo {
+    width: 150px;
+}
+
+/* Text Styling */
+.footer p {
+    color: #d34747;
+    font-size: 1rem;
+    margin: 0;
+}
+
+/* Footer Privacy Styling */
+.footer .footer-privacy {
+    color: #d34747 !important;
+}
+
+.footer .footer-privacy:hover {
+    color: #e75b5b !important;
+}
+
+/* Responsive styles for small screens */
+@media (max-width: 768px) {
+    .footer .btn-floating {
+        font-size: 16px;
+    }
+}
